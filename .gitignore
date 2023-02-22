@@ -24,6 +24,9 @@ autojunk
 *.pyc
 .libs
 bin
+build32/
+build64/
+build64avx2/
 
 # Merge files created by git.
 *.orig
